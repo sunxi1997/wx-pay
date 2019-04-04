@@ -16,7 +16,7 @@ JS-SDK里还需要后端生成JS-SDK的权限验证签名;
 
 第二种:[WeiXinJSBridge](./WeixinJSBridge)
 
-#关于微信支付相关文档
+# 关于微信支付相关文档
 
 这些文档可能对你有所帮助
 
